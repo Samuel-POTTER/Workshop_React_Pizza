@@ -144,7 +144,7 @@ Good job mate, you've displayed your first pizza. Now how can we display all of 
 Now you can use **materialize** to beautify the content or you can use **packages** to have better content.
 https://www.npmjs.com/package/react-ui-cards 
 
- ![alt text](https://image.noelshack.com/fichiers/2021/01/2/1609846313-shone.png)
+ ![alt text](https://image.noelshack.com/fichiers/2021/01/2/1609847849-final.png)
  
  
  ## GO FURTHER
