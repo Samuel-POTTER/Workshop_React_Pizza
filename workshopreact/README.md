@@ -77,7 +77,7 @@ function Hello() {
 }
 export default Hello;
 ```  
-This is how the same function looks with arrow function: 
+This is how the same function looks in an arrow function: 
 ```js
 const Hello = () => {
 	return (
