@@ -42,7 +42,7 @@ https://jaetheme.com/balises-html5/
 npm start
 ````
 
-Welcome to your **localhost/3000**.
+Welcome to your **localhost3000/**.
  
  If all the previous step worked fine, you should see a react animated logo on your browser.
  
